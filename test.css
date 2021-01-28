@@ -9,3 +9,7 @@
 .user_online_box, .title_box .right_lnk, .title_box {
 	color: white;
 }
+
+.title_box .icon-envelope {
+	background-image: url(/images/icons-white.png);
+}
