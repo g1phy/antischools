@@ -1,3 +1,8 @@
 .title_box h1:before {
     content: '\1F451';
 }
+
+.title_box {
+	background: linear-gradient(0.2turn, #12c2e9, #c471ed, #f64f59);
+	color: white;
+}
