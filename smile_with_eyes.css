@@ -3,7 +3,8 @@
 }
 
 .title_box {
-	background: linear-gradient(0.2turn, #12c2e9, #c471ed, #f64f59);
+	/*background: linear-gradient(0.2turn, #12c2e9, #c471ed, #f64f59);*/
+	background: linear-gradient(0.2turn, #8360c3, #2ebf91);
 }
 
 .user_online_box, .title_box .right_lnk, .title_box {
