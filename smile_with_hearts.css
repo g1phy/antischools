@@ -1,3 +1,15 @@
 .title_box h1:before {
     content: '\1F970';
 }
+
+.title_box {
+	background: linear-gradient(0.2turn, #12c2e9, #c471ed, #f64f59);
+}
+
+.user_online_box, .title_box .right_lnk, .title_box {
+	color: white;
+}
+
+.title_box .icon-envelope {
+	background-image: url(//static.schools.by/images/icons-white.png);
+}
